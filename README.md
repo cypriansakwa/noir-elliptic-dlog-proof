@@ -30,7 +30,7 @@ This repository contains a Noir circuit for proving knowledge of the discrete lo
 
 ### Requirements
 
-- [Noir](https://noir-lang.org/) (v0.18+ recommended)
+- [Noir](https://noir-lang.org/) 
 - [nargo](https://noir-lang.org/docs/getting_started/quick_start#installation) (Noir package manager)
 - Rust (for installing Noir)
 
