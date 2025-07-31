@@ -1,6 +1,6 @@
 # Noir Elliptic Curve Discrete Log Proof Circuit
 
-This repository contains a Noir circuit for proving knowledge of the discrete logarithm on the secp256k1 elliptic curve. The circuit demonstrates, in zero-knowledge, that the prover knows a secret scalar \( k \) such that \( Q = k \cdot G \), where \( G \) is a public point and \( Q \) is the resulting public point.
+This repository contains a Noir circuit for proving knowledge of the discrete logarithm on the secp256k1 elliptic curve. The circuit demonstrates, in zero-knowledge, that the prover knows a secret scalar \(k\) such that \(Q = k \cdot G\), where \( G \) is a public point and \( Q \) is the resulting public point.
 
 ## Features
 
